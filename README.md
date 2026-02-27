@@ -1,4 +1,15 @@
-# 🔍 google-search
+<p align="center">
+  <img src="assets/banner.svg" alt="Google Search Skill" width="600" />
+</p>
+
+<p align="center">
+  <a href="https://clawhub.com/skills/google-search"><img src="https://img.shields.io/badge/ClawHub-Install-orange?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRleHQgeT0iMTgiIGZvbnQtc2l6ZT0iMTYiPvCfpp48L3RleHQ+PC9zdmc+" alt="ClawHub" /></a>
+  <a href="https://github.com/minilozio/google-search/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="MIT License" /></a>
+  <img src="https://img.shields.io/badge/version-1.0.0-brightgreen?style=flat-square" alt="v1.0.0" />
+  <img src="https://img.shields.io/badge/OpenClaw-compatible-red?style=flat-square" alt="OpenClaw" />
+</p>
+
+---
 
 **Your agent deserves Google, not Bing.**
 
