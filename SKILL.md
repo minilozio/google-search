@@ -36,8 +36,13 @@ npx tsx $SCRIPT_DIR/google-search.ts credits
 
 Add `--json` to any command for raw JSON output.
 
-## Environment
-Requires `SERPER_API_KEY` env var.
+## Setup
+Requires a free API key from Serper.dev:
+1. Sign up at https://serper.dev (2,500 free searches included)
+2. Copy your API key from the dashboard
+3. Add to your environment: `export SERPER_API_KEY=your_key_here`
+
+If the key is missing, remind the user to sign up at serper.dev — it's free and takes 30 seconds.
 
 ## Workflow
 1. Run the appropriate search command
