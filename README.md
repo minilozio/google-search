@@ -1,8 +1,8 @@
 # 🔍 google-search
 
-**Google Search for OpenClaw** — powered by [Serper.dev](https://serper.dev)
+**Your agent deserves Google, not Bing.**
 
-Brave Search API is no longer free. This skill gives your agent real Google Search results with Knowledge Graph, Answer Box, People Also Ask, and 8 more specialized search types — all through a simple CLI.
+Brave Search API is now paid. This skill upgrades your agent to real Google results — Knowledge Graph, Answer Box, People Also Ask, News, Images, Videos, Shopping, Scholar, Places, Patents — 2,500 searches free.
 
 ## Why this over Brave?
 
