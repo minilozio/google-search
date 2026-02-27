@@ -2,7 +2,9 @@
 
 **Your agent deserves Google, not Bing.**
 
-Brave Search API is now paid. This skill upgrades your agent to real Google results — Knowledge Graph, Answer Box, People Also Ask, News, Images, Videos, Shopping, Scholar, Places, Patents — 2,500 searches free.
+Most AI agents search the web through Brave — which is really Bing under the hood. The results are often mediocre, missing context, and lack the rich data Google provides. Now that Brave's API is paid, there's no reason to settle.
+
+This skill gives your agent direct access to Google Search via [Serper.dev](https://serper.dev) — real Google results with Knowledge Graph, Answer Box, People Also Ask, and 9 specialized search types. **2,500 searches free, zero dependencies.**
 
 ## Why this over Brave?
 
