@@ -1,6 +1,13 @@
 {
-  "name": "google-search",
-  "version": "1.0.0",
+  "name": "google-search-serper",
+  "version": "1.0.1",
   "description": "Google Search via Serper.dev API for OpenClaw",
-  "private": true
+  "homepage": "https://minilozio.com/skills/google-search-serper",
+  "openclaw": {
+    "emoji": "🔍",
+    "primaryEnv": "SERPER_API_KEY",
+    "requires": {
+      "env": ["SERPER_API_KEY"]
+    }
+  }
 }
